@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 160" preserveAspectRatio="xMaxYMid meet" aria-hidden="true" focusable="false">
+<!-- Hand-built for this page. Colours come from the page header's stylesheet (.cs-band-picture in custom.scss). Icons: Lucide (ISC License), https://lucide.dev -->
+<rect class="pane" x="100" y="12" width="200" height="86" rx="12"/>
+<rect class="tint" x="112" y="24" width="132" height="20" rx="7"/>
+<rect class="bar" x="122" y="31.5" width="54" height="5" rx="2.5"/>
+<rect class="solid" x="182" y="28" width="1.8" height="12" rx="0.9"/>
+<rect class="hit" x="112" y="54" width="30" height="30" rx="9"/>
+<g class="glyph bold" transform="translate(120 62) scale(0.5833)"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><path d="M9 18h6"/><path d="M10 22h4"/></g>
+<circle class="solid" cx="164" cy="69" r="7.5" fill-opacity="0.25" stroke="currentColor" stroke-opacity=".4"/>
+<circle class="solid" cx="186" cy="69" r="7.5" fill-opacity="0.5" stroke="currentColor" stroke-opacity=".4"/>
+<circle class="solid" cx="208" cy="69" r="7.5" fill-opacity="0.8" stroke="currentColor" stroke-opacity=".4"/>
+<circle class="solid" cx="230" cy="69" r="7.5" fill-opacity="1" stroke="currentColor" stroke-opacity=".4"/>
+<circle class="ink" cx="208" cy="69" r="11"/>
+<rect class="tint" x="112" y="110" width="200" height="62" rx="10"/>
+<g class="glyph bold" transform="translate(124 120) scale(0.625)"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><path d="M9 18h6"/><path d="M10 22h4"/></g>
+<rect class="bar" x="146" y="125" width="60" height="6" rx="3"/>
+<rect class="line" x="124" y="148" width="130" height="4" rx="2"/>
+</svg>

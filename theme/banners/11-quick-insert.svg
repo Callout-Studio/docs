@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 160" preserveAspectRatio="xMaxYMid meet" aria-hidden="true" focusable="false">
+<!-- Hand-built for this page. Colours come from the page header's stylesheet (.cs-band-picture in custom.scss). Icons: Lucide (ISC License), https://lucide.dev -->
+<rect class="pane" x="52" y="-10" width="38" height="180" rx="10"/>
+<rect class="soft" x="63" y="16" width="16" height="16" rx="5"/>
+<rect class="soft" x="63" y="44" width="16" height="16" rx="5"/>
+<rect class="hit" x="57" y="67" width="28" height="26" rx="7"/>
+<g class="glyph bold" transform="translate(63 72) scale(0.667)"><path d="M11.9 17.154 3.942 14.984"/><path d="M15.25 14.244 8.354 7.348a.5.5 0 0 1 0-.707l.944-.944a2.41 2.41 0 0 1 3.408 0l.944.944a.5.5 0 0 0 .707 0l4.019-4.019a1 1 0 1 1 3.002 3.002L17.36 9.643a.5.5 0 0 0 0 .707l.944.944"/><path d="M9 8c-1.804 2.71-3.97 3.46-6.583 3.948a.507.507 0 0 0-.302.819l7.32 8.883a1 1 0 0 0 1.185.204C11.096 21.528 11.63 21.092 12.172 20.593"/><path d="M15 18.5h7M18.5 15v7"/></g>
+<rect class="soft" x="63" y="100" width="16" height="16" rx="5"/>
+<rect class="soft" x="63" y="128" width="16" height="16" rx="5"/>
+<rect class="soft" x="108" y="12" width="170" height="170" rx="12"/>
+<rect class="pane" x="104" y="8" width="170" height="170" rx="12"/>
+<rect class="bar" x="118" y="17.5" width="84" height="5" rx="2.5"/>
+<g class="glyph dim bold" transform="translate(254 15) scale(0.417)"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></g>
+<rect class="line" x="118" y="30" width="118" height="3.5" rx="1.75"/>
+<rect class="tint" x="114" y="40" width="150" height="16" rx="6"/>
+<g class="glyph dim bold" transform="translate(120 43) scale(0.417)"><path d="m21 21-4.34-4.34"/><circle cx="11" cy="11" r="8"/></g>
+<rect class="line" x="134" y="46.25" width="40" height="3.5" rx="1.75"/>
+<g class="glyph dim bold" transform="translate(247 42) scale(0.5)"><path d="M10 20a1 1 0 0 0 .553.895l2 1A1 1 0 0 0 14 21v-7a2 2 0 0 1 .517-1.341L21.74 4.67A1 1 0 0 0 21 3H3a1 1 0 0 0-.742 1.67l7.225 7.989A2 2 0 0 1 10 14z"/></g>
+<rect class="tint" x="114" y="64" width="150" height="20" rx="5"/>
+<g class="glyph bold" transform="translate(121 68) scale(0.5)"><rect width="8" height="4" x="8" y="2" rx="1" ry="1"/><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><path d="M12 11h4"/><path d="M12 16h4"/><path d="M8 11h.01"/><path d="M8 16h.01"/></g>
+<rect class="bar" x="138" y="71.75" width="44" height="4.5" rx="2.25"/>
+<g class="glyph dim bold" transform="translate(232 68) scale(0.5)"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"/><path d="m15 5 4 4"/></g>
+<g class="glyph dim bold" transform="translate(247 68) scale(0.5)"><rect width="13" height="7" x="8" y="3" rx="1"/><path d="m2 9 3 3-3 3"/><rect width="13" height="7" x="8" y="14" rx="1"/></g>
+<rect class="tint" x="114" y="92" width="150" height="20" rx="5"/>
+<g class="glyph bold" transform="translate(121 96) scale(0.5)"><path d="M12 20v-9"/><path d="M14 7a4 4 0 0 1 4 4v3a6 6 0 0 1-12 0v-3a4 4 0 0 1 4-4z"/><path d="M14.12 3.88 16 2"/><path d="M21 21a4 4 0 0 0-3.81-4"/><path d="M21 5a4 4 0 0 1-3.55 3.97"/><path d="M22 13h-4"/><path d="M3 21a4 4 0 0 1 3.81-4"/><path d="M3 5a4 4 0 0 0 3.55 3.97"/><path d="M6 13H2"/><path d="m8 2 1.88 1.88"/><path d="M9 7.13V6a3 3 0 1 1 6 0v1.13"/></g>
+<rect class="bar" x="138" y="99.75" width="30" height="4.5" rx="2.25"/>
+<g class="glyph dim bold" transform="translate(232 96) scale(0.5)"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"/><path d="m15 5 4 4"/></g>
+<g class="glyph dim bold" transform="translate(247 96) scale(0.5)"><rect width="13" height="7" x="8" y="3" rx="1"/><path d="m2 9 3 3-3 3"/><rect width="13" height="7" x="8" y="14" rx="1"/></g>
+<rect class="tint" x="114" y="120" width="150" height="20" rx="5"/>
+<g class="glyph bold" transform="translate(121 124) scale(0.5)"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></g>
+<rect class="bar" x="138" y="127.75" width="38" height="4.5" rx="2.25"/>
+<g class="glyph dim bold" transform="translate(232 124) scale(0.5)"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"/><path d="m15 5 4 4"/></g>
+<g class="glyph dim bold" transform="translate(247 124) scale(0.5)"><rect width="13" height="7" x="8" y="3" rx="1"/><path d="m2 9 3 3-3 3"/><rect width="13" height="7" x="8" y="14" rx="1"/></g>
+<rect class="tint" x="114" y="148" width="150" height="20" rx="5"/>
+<g class="glyph bold" transform="translate(121 152) scale(0.5)"><path d="M18 6 7 17l-5-5"/><path d="m22 10-7.5 7.5L13 16"/></g>
+<rect class="bar" x="138" y="155.75" width="50" height="4.5" rx="2.25"/>
+<g class="glyph dim bold" transform="translate(232 152) scale(0.5)"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"/><path d="m15 5 4 4"/></g>
+<g class="glyph dim bold" transform="translate(247 152) scale(0.5)"><rect width="13" height="7" x="8" y="3" rx="1"/><path d="m2 9 3 3-3 3"/><rect width="13" height="7" x="8" y="14" rx="1"/></g>
+</svg>

@@ -1,9 +1,42 @@
 {
 	"repository": "Callout-Studio/obsidian",
 	"folder": "docs/user-guide",
-	"copy": ["assets/user-guide"],
+	"copy": [
+		"assets/user-guide"
+	],
 	"sites": {
 		"docs/user-guide": "https://callout-studio.github.io/docs",
 		"docs/internals-docs": "https://callout-studio.github.io/internal-docs"
+	},
+	"redirects": {
+		"06-editing-replacing-and-deleting": "07-editing-replacing-and-deleting",
+		"07-global-styling": "06-global-styling",
+		"10-import-export-and-sharing": "14-import-export-and-sharing",
+		"11-languages": "17-languages",
+		"12-find-callouts": "10-find-callouts",
+		"13-syncing-and-backups": "15-syncing-and-backups",
+		"14-danger-zone": "18-danger-zone",
+		"15-quick-insert": "11-quick-insert",
+		"16-advanced-heading-callouts": "12-advanced-heading-callouts",
+		"17-theme-integration": "19-theme-integration",
+		"18-callout-metadata": "13-callout-metadata",
+		"19-publish-to-the-web": "16-publish-to-the-web"
+	},
+	"quartz": {
+		"configuration": {
+			"pageTitle": "Callout Studio Docs",
+			"pageTitleSuffix": " | Callout Studio Docs",
+			"baseUrl": "callout-studio.github.io/docs"
+		},
+		"plugins": {
+			"@quartz-community/graph": {
+				"options": {
+					"localGraph": {
+						"scale": 1.7,
+						"linkDistance": 45
+					}
+				}
+			}
+		}
 	}
 }

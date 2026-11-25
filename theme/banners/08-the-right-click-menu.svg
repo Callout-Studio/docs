@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 160" preserveAspectRatio="xMaxYMid meet" aria-hidden="true" focusable="false">
+<!-- Hand-built for this page. Colours come from the page header's stylesheet (.cs-band-picture in custom.scss). Icons: Lucide (ISC License), https://lucide.dev -->
+<g transform="rotate(-2.5 154 27)">
+<rect class="tint" x="58" y="-5" width="192" height="62" rx="10"/>
+<g class="glyph bold" transform="translate(70 3) scale(0.625)"><path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z"/></g>
+<rect class="bar" x="92" y="8" width="60" height="6" rx="3"/>
+<g class="glyph dim bold" transform="translate(226 4) scale(0.583)"><path d="m6 9 6 6 6-6"/></g>
+<rect class="line" x="70" y="30" width="140" height="4" rx="2"/>
+<rect class="line" x="70" y="41" width="108" height="4" rx="2"/>
+</g>
+<rect class="soft" x="143" y="49" width="128" height="98" rx="10"/>
+<rect class="pane" x="138" y="44" width="128" height="98" rx="10"/>
+<g class="glyph dim bold" transform="translate(148 50) scale(0.583)"><rect width="8" height="4" x="8" y="2" rx="1" ry="1"/><path d="M8 4H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-2"/><path d="M16 4h2a2 2 0 0 1 2 2v4"/><path d="M21 14H11"/><path d="m15 10-4 4 4 4"/></g>
+<rect class="bar" x="170" y="54.75" width="70" height="4.5" rx="2.25"/>
+<g class="glyph dim bold" transform="translate(148 68) scale(0.583)"><path d="M5 12h14"/></g>
+<rect class="bar" x="170" y="72.75" width="70" height="4.5" rx="2.25"/>
+<g class="glyph dim bold" transform="translate(148 86) scale(0.583)"><circle cx="12" cy="12" r="10"/><path d="M4.929 4.929 19.07 19.071"/></g>
+<rect class="bar" x="170" y="90.75" width="88" height="4.5" rx="2.25"/>
+<g class="glyph dim bold" transform="translate(148 104) scale(0.583)"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"/><path d="m15 5 4 4"/></g>
+<rect class="bar" x="170" y="108.75" width="70" height="4.5" rx="2.25"/>
+<g class="glyph dim bold" transform="translate(148 122) scale(0.583)"><path d="M9.671 4.136a2.34 2.34 0 0 1 4.659 0 2.34 2.34 0 0 0 3.319 1.915 2.34 2.34 0 0 1 2.33 4.033 2.34 2.34 0 0 0 0 3.831 2.34 2.34 0 0 1-2.33 4.033 2.34 2.34 0 0 0-3.319 1.915 2.34 2.34 0 0 1-4.659 0 2.34 2.34 0 0 0-3.32-1.915 2.34 2.34 0 0 1-2.33-4.033 2.34 2.34 0 0 0 0-3.831A2.34 2.34 0 0 1 6.35 6.051a2.34 2.34 0 0 0 3.319-1.915"/><circle cx="12" cy="12" r="3"/></g>
+<rect class="bar" x="170" y="126.75" width="90" height="4.5" rx="2.25"/>
+<path class="cursor" d="M0 0L0 15L4 11.4L6.8 17.8L9.4 16.7L6.6 10.5L11.6 10.4Z" transform="translate(130 38) scale(1.15)"/>
+</svg>

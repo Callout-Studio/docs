@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 160" preserveAspectRatio="xMaxYMid meet" aria-hidden="true" focusable="false">
+<!-- Hand-built for this page. Colours come from the page header's stylesheet (.cs-band-picture in custom.scss). Icons: Lucide (ISC License), https://lucide.dev -->
+<rect class="tint" x="86" y="58" width="50" height="48" rx="12"/>
+<rect class="pane" x="86" y="52" width="50" height="48" rx="12"/>
+<g class="glyph bold" transform="translate(100 65) scale(0.917)"><path d="M15 6v12a3 3 0 1 0 3-3H6a3 3 0 1 0 3 3V6a3 3 0 1 0-3 3h12a3 3 0 1 0-3-3"/></g>
+<rect class="tint" x="164" y="58" width="50" height="48" rx="12"/>
+<rect class="pane" x="164" y="52" width="50" height="48" rx="12"/>
+<g class="glyph bold" transform="translate(178 65) scale(0.917)"><path d="M9 13a1 1 0 0 0-1-1H5.061a1 1 0 0 1-.75-1.811l6.836-6.835a1.207 1.207 0 0 1 1.707 0l6.835 6.835a1 1 0 0 1-.75 1.811H16a1 1 0 0 0-1 1v6a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1z"/></g>
+<rect class="tint" x="242" y="58" width="50" height="48" rx="12"/>
+<rect class="pane" x="242" y="52" width="50" height="48" rx="12"/>
+<g class="glyph bold" transform="translate(256 65) scale(0.917)"><path d="M3 3h6l6 18h6"/><path d="M14 3h7"/></g>
+<g class="glyph dim bold" transform="translate(143 69) scale(0.583)"><path d="M5 12h14"/><path d="M12 5v14"/></g>
+<g class="glyph dim bold" transform="translate(221 69) scale(0.583)"><path d="M5 12h14"/><path d="M12 5v14"/></g>
+</svg>

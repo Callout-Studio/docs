@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 160" preserveAspectRatio="xMaxYMid meet" aria-hidden="true" focusable="false">
+<!-- Hand-built for this page. Colours come from the page header's stylesheet (.cs-band-picture in custom.scss). Icons: Lucide (ISC License), https://lucide.dev -->
+<rect class="soft" x="46" y="48" width="84" height="58" rx="10"/>
+<rect class="ink dim" x="46" y="48" width="84" height="58" rx="10" style="stroke-dasharray:4 3"/>
+<g class="glyph dim" transform="translate(77 58) scale(0.9167)"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></g>
+<rect class="line" x="62" y="90" width="52" height="4" rx="2"/>
+<path class="ink" d="M138 77H160M154 71l6 6-6 6"/>
+<rect class="tint" x="168" y="36" width="140" height="82" rx="10"/>
+<g class="glyph bold" transform="translate(180 47) scale(0.625)"><path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z"/></g>
+<rect class="bar" x="202" y="52" width="56" height="6" rx="3"/>
+<rect class="line" x="180" y="76" width="100" height="4" rx="2"/>
+<rect class="line" x="180" y="87" width="76" height="4" rx="2"/>
+<circle class="pane" cx="262" cy="38" r="9"/>
+<g class="glyph bold" transform="translate(256 32) scale(0.5)"><path d="M20 6 9 17l-5-5"/></g>
+</svg>

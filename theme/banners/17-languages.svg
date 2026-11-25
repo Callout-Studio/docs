@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 160" preserveAspectRatio="xMaxYMid meet" aria-hidden="true" focusable="false">
+<!-- Hand-built for this page. Colours come from the page header's stylesheet (.cs-band-picture in custom.scss). Icons: Lucide (ISC License), https://lucide.dev -->
+<rect class="tint" x="146" y="10" width="88" height="22" rx="7"/>
+<rect class="ink" x="143.5" y="7.5" width="93" height="27" rx="9.5"/>
+<g class="glyph bold" transform="translate(154 14) scale(0.583)"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></g>
+<rect class="bar" x="174" y="18.75" width="44" height="4.5" rx="2.25"/>
+<rect class="pane" x="146" y="40" width="120" height="126" rx="10"/>
+<rect class="bar" x="158" y="51.75" width="44" height="4.5" rx="2.25"/>
+<g class="glyph bold" transform="translate(242 48) scale(0.5)"><path d="M20 6 9 17l-5-5"/></g>
+<rect class="line" x="158" y="71.75" width="26" height="4.5" rx="2.25"/>
+<rect class="line" x="158" y="91.75" width="34" height="4.5" rx="2.25"/>
+<rect class="line" x="158" y="111.75" width="40" height="4.5" rx="2.25"/>
+<rect class="line" x="158" y="131.75" width="36" height="4.5" rx="2.25"/>
+<rect class="line" x="158" y="151.75" width="42" height="4.5" rx="2.25"/>
+</svg>

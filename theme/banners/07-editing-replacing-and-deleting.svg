@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 160" preserveAspectRatio="xMaxYMid meet" aria-hidden="true" focusable="false">
+<!-- Hand-built for this page. Colours come from the page header's stylesheet (.cs-band-picture in custom.scss). Icons: Lucide (ISC License), https://lucide.dev -->
+<rect class="pane" x="246" y="11" width="24" height="22" rx="7"/>
+<g class="glyph bold" transform="translate(251 15) scale(0.583)"><circle cx="12" cy="12" r="1"/><circle cx="12" cy="5" r="1"/><circle cx="12" cy="19" r="1"/></g>
+<rect class="pane" x="128" y="37" width="142" height="134" rx="9"/>
+<g class="glyph dim bold" transform="translate(138 43) scale(0.583)"><path d="M8.802 16.31L3.942 14.984"/><path d="M11.582 10.575L8.354 7.348C8.159 7.153 8.159 6.836 8.354 6.641L9.298 5.697C10.239 4.756 11.765 4.756 12.706 5.697L13.65 6.641C13.845 6.836 14.162 6.836 14.357 6.641L18.376 2.622C18.912 2.086 19.694 1.876 20.426 2.073C21.159 2.269 21.731 2.841 21.927 3.574C22.124 4.306 21.914 5.088 21.378 5.624L18.046 8.957"/><path d="M9 8C7.196 10.71 5.03 11.46 2.417 11.948C2.241 11.98 2.094 12.103 2.032 12.271C1.97 12.44 2.002 12.628 2.115 12.767L9.435 21.65C9.74 21.974 10.224 22.058 10.62 21.854C10.688 21.807 10.757 21.758 10.828 21.707"/><circle cx="16.5" cy="16.5" r="4"/><path d="m19.3 19.3 2.7 2.7"/></g>
+<rect class="bar" x="160" y="47.75" width="50" height="4.5" rx="2.25"/>
+<rect class="line" x="244" y="48" width="14" height="4" rx="2"/>
+<path class="ink dim" d="M134 62H264" style="stroke-width:1"/>
+<g class="glyph dim bold" transform="translate(138 67) scale(0.583)"><path d="M8 3 4 7l4 4"/><path d="M4 7h16"/><path d="m16 21 4-4-4-4"/><path d="M20 17H4"/></g>
+<rect class="bar" x="160" y="71.75" width="60" height="4.5" rx="2.25"/>
+<g class="glyph dim bold" transform="translate(138 85) scale(0.583)"><path d="M21 21H8a2 2 0 0 1-1.42-.587l-3.994-3.999a2 2 0 0 1 0-2.828l10-10a2 2 0 0 1 2.829 0l5.999 6a2 2 0 0 1 0 2.828L12.834 21"/><path d="m5.082 11.09 8.828 8.828"/></g>
+<rect class="bar" x="160" y="89.75" width="76" height="4.5" rx="2.25"/>
+<path class="ink dim" d="M134 104H264" style="stroke-width:1"/>
+<g class="glyph dim bold" transform="translate(138 109) scale(0.583)"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></g>
+<rect class="bar" x="160" y="113.75" width="40" height="4.5" rx="2.25"/>
+<g class="glyph dim bold" transform="translate(138 127) scale(0.583)"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></g>
+<rect class="bar" x="160" y="131.75" width="70" height="4.5" rx="2.25"/>
+<path class="ink dim" d="M134 146H264" style="stroke-width:1"/>
+<g class="glyph dim bold" transform="translate(138 151) scale(0.583)"><path d="M10 11v6"/><path d="M14 11v6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M3 6h18"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></g>
+<rect class="bar" x="160" y="155.75" width="32" height="4.5" rx="2.25"/>
+</svg>
